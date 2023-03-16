@@ -20,5 +20,3 @@ Page Number 3 - (Find the nearest Pub)
 Ask the user to enter his/her Latitude and Longitude. Display the nearest 5 Pubs on the map. Use Euclidean Distance to find the nearest pubs.
 
 
-###### 2nd project 
-AMCAT Employability test 
